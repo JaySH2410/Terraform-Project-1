@@ -20,6 +20,9 @@ We are using Route 53 to route domain traffic to an Application Load Balancer(AL
 
 Final Result should look like this👇
 
+
 <img width="925" alt="1" src="https://user-images.githubusercontent.com/84583290/225923942-2645c578-3120-4e94-aa0f-7631e1f5708d.png">
 
 ![MicrosoftTeams-image (10)](https://user-images.githubusercontent.com/84583290/225924016-f7c908cd-328d-423b-b85b-7ba380ecc766.png)
+
+NOTE: in URL goto "/phpMyAdmin" path
